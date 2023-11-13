@@ -1,0 +1,14 @@
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\bin\Debug\net7.0\Prototype.exe
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\bin\Debug\net7.0\Prototype.deps.json
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\bin\Debug\net7.0\Prototype.runtimeconfig.json
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\bin\Debug\net7.0\Prototype.dll
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\bin\Debug\net7.0\Prototype.pdb
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\obj\Debug\net7.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\obj\Debug\net7.0\Prototype.AssemblyInfoInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\obj\Debug\net7.0\Prototype.AssemblyInfo.cs
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\obj\Debug\net7.0\Prototype.csproj.CoreCompileInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\obj\Debug\net7.0\Prototype.dll
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\obj\Debug\net7.0\refint\Prototype.dll
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\obj\Debug\net7.0\Prototype.pdb
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\obj\Debug\net7.0\Prototype.genruntimeconfig.cache
+D:\АлтГУ\Сессия\АПС\Lab4\Prototype\Prototype\obj\Debug\net7.0\ref\Prototype.dll
